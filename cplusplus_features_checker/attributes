@@ -1,0 +1,10 @@
+assume
+carries_dependency
+deprecated
+fallthrough
+likely
+maybe_unused
+no_unique_address
+nodiscard
+noreturn
+unlikely
